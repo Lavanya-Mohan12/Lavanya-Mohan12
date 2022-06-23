@@ -10,7 +10,7 @@ Project Name: Frames
 
 Description: 
 Created test automation scripts for frames and nested frames. Drags the image from the source and drops the image in the target.
-Navigates to the next page and clicks the Nexted Frames link and prints the middle frame text. Validates the frame text which is retrieved with the actual result using  assertions.
+Navigates to the next page and clicks the Nested Frames link and prints the middle frame text. Validates the middle frame text which is retrieved with the actual result using assertions.
 
 
 Project Name: Tables
